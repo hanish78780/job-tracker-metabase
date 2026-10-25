@@ -1,0 +1,9 @@
+{
+  "extracted_at": "2026-10-25T05:05:52.755935+00:00",
+  "source": "Hanish actual job-search workbook, Open roles and Verify leads",
+  "source_sha256": "3f32907e1c88f78d302bfe7e4f1e1b2b1afa8790e18d2976c4d4fabc736dafd2",
+  "records": 127,
+  "distinct_employer_keys": 120,
+  "privacy": "No names, contact details, company names, URLs, message contents or original notes exported. Employer keys are local pseudonyms. Role and location are coarse derived categories.",
+  "scope": "Opportunity records include leads and failed/closed records; rows are not all completed applications."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "hanish-job-tracker-analytics",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"start": "node server.js", "test": "node --test"},
+  "engines": {"node": ">=20"},
+  "dependencies": {"pg": "^8.13.1"}
+}

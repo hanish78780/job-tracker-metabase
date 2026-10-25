@@ -1,0 +1,1272 @@
+[
+  {
+    "record_id": "open_8",
+    "employer_key": "employer_001",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "Under review",
+    "applied_on": "2026-10-08",
+    "followup_on": "2026-10-15",
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "open_9",
+    "employer_key": "employer_001",
+    "role_family": "Backend",
+    "mode": "Remote mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-07",
+    "followup_on": "2026-10-15",
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "open_10",
+    "employer_key": "employer_002",
+    "role_family": "Software and other opportunities",
+    "mode": "Jaipur mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-07",
+    "followup_on": null,
+    "checked_on": "2026-10-14"
+  },
+  {
+    "record_id": "open_11",
+    "employer_key": "employer_003",
+    "role_family": "Backend",
+    "mode": "Jaipur mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-07",
+    "followup_on": "2026-10-21",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "record_id": "open_12",
+    "employer_key": "employer_004",
+    "role_family": "Software and other opportunities",
+    "mode": "Jaipur mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-07",
+    "followup_on": null,
+    "checked_on": "2026-10-14"
+  },
+  {
+    "record_id": "open_13",
+    "employer_key": "employer_005",
+    "role_family": "Frontend",
+    "mode": "Jaipur mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-07",
+    "followup_on": null,
+    "checked_on": "2026-10-14"
+  },
+  {
+    "record_id": "open_14",
+    "employer_key": "employer_003",
+    "role_family": "Software and other opportunities",
+    "mode": "Jaipur mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-07",
+    "followup_on": "2026-10-21",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "record_id": "open_15",
+    "employer_key": "employer_003",
+    "role_family": "Frontend",
+    "mode": "Jaipur mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-07",
+    "followup_on": "2026-10-21",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "record_id": "open_16",
+    "employer_key": "employer_006",
+    "role_family": "Frontend",
+    "mode": "Jaipur mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-07",
+    "followup_on": null,
+    "checked_on": "2026-10-14"
+  },
+  {
+    "record_id": "open_17",
+    "employer_key": "employer_007",
+    "role_family": "Software and other opportunities",
+    "mode": "Jaipur mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-07",
+    "followup_on": null,
+    "checked_on": "2026-10-14"
+  },
+  {
+    "record_id": "open_18",
+    "employer_key": "employer_008",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "On hold",
+    "applied_on": "2026-10-07",
+    "followup_on": null,
+    "checked_on": "2026-10-14"
+  },
+  {
+    "record_id": "open_19",
+    "employer_key": "employer_009",
+    "role_family": "Software and other opportunities",
+    "mode": "Jaipur mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-07",
+    "followup_on": null,
+    "checked_on": "2026-10-14"
+  },
+  {
+    "record_id": "open_20",
+    "employer_key": "employer_001",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-07",
+    "followup_on": "2026-10-15",
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "open_21",
+    "employer_key": "employer_003",
+    "role_family": "Backend",
+    "mode": "Jaipur mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-07",
+    "followup_on": "2026-10-21",
+    "checked_on": "2026-10-14"
+  },
+  {
+    "record_id": "open_22",
+    "employer_key": "employer_010",
+    "role_family": "Software and other opportunities",
+    "mode": "Jaipur mentioned",
+    "status": "On hold",
+    "applied_on": "2026-10-07",
+    "followup_on": null,
+    "checked_on": "2026-10-14"
+  },
+  {
+    "record_id": "open_23",
+    "employer_key": "employer_011",
+    "role_family": "Backend",
+    "mode": "Jaipur mentioned",
+    "status": "On hold",
+    "applied_on": "2026-10-07",
+    "followup_on": null,
+    "checked_on": "2026-10-14"
+  },
+  {
+    "record_id": "open_24",
+    "employer_key": "employer_012",
+    "role_family": "Software and other opportunities",
+    "mode": "Jaipur mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-07",
+    "followup_on": null,
+    "checked_on": "2026-10-14"
+  },
+  {
+    "record_id": "open_25",
+    "employer_key": "employer_013",
+    "role_family": "Software and other opportunities",
+    "mode": "Jaipur mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-07",
+    "followup_on": null,
+    "checked_on": "2026-10-14"
+  },
+  {
+    "record_id": "open_26",
+    "employer_key": "employer_014",
+    "role_family": "Backend",
+    "mode": "Jaipur mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-07",
+    "followup_on": null,
+    "checked_on": "2026-10-14"
+  },
+  {
+    "record_id": "open_27",
+    "employer_key": "employer_015",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-07",
+    "followup_on": null,
+    "checked_on": "2026-10-14"
+  },
+  {
+    "record_id": "open_28",
+    "employer_key": "employer_016",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-07",
+    "followup_on": null,
+    "checked_on": "2026-10-14"
+  },
+  {
+    "record_id": "open_29",
+    "employer_key": "employer_017",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-07",
+    "followup_on": null,
+    "checked_on": "2026-10-14"
+  },
+  {
+    "record_id": "open_30",
+    "employer_key": "employer_018",
+    "role_family": "Software and other opportunities",
+    "mode": "Jaipur mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-08",
+    "followup_on": "2026-10-15",
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "open_31",
+    "employer_key": "employer_019",
+    "role_family": "Frontend",
+    "mode": "Jaipur mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-08",
+    "followup_on": "2026-10-15",
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "open_32",
+    "employer_key": "employer_020",
+    "role_family": "Data and AI",
+    "mode": "Remote mentioned",
+    "status": "Form confirmed",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "open_33",
+    "employer_key": "employer_021",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "Form confirmed",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "open_34",
+    "employer_key": "employer_022",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-08",
+    "followup_on": null,
+    "checked_on": "2026-10-15"
+  },
+  {
+    "record_id": "open_35",
+    "employer_key": "employer_023",
+    "role_family": "Data and AI",
+    "mode": "Jaipur mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-08",
+    "followup_on": null,
+    "checked_on": "2026-10-15"
+  },
+  {
+    "record_id": "open_36",
+    "employer_key": "employer_024",
+    "role_family": "Frontend",
+    "mode": "Other or unconfirmed",
+    "status": "Email sent",
+    "applied_on": "2026-10-08",
+    "followup_on": null,
+    "checked_on": "2026-10-15"
+  },
+  {
+    "record_id": "open_37",
+    "employer_key": "employer_025",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "Closed",
+    "applied_on": "2026-10-08",
+    "followup_on": null,
+    "checked_on": "2026-10-15"
+  },
+  {
+    "record_id": "open_38",
+    "employer_key": "employer_026",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "Under review",
+    "applied_on": "2026-10-08",
+    "followup_on": "2026-11-01",
+    "checked_on": "2026-10-15"
+  },
+  {
+    "record_id": "open_39",
+    "employer_key": "employer_027",
+    "role_family": "Frontend",
+    "mode": "Remote mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-08",
+    "followup_on": null,
+    "checked_on": "2026-10-15"
+  },
+  {
+    "record_id": "open_40",
+    "employer_key": "employer_028",
+    "role_family": "Software and other opportunities",
+    "mode": "Other or unconfirmed",
+    "status": "Email sent",
+    "applied_on": "2026-10-08",
+    "followup_on": null,
+    "checked_on": "2026-10-15"
+  },
+  {
+    "record_id": "open_41",
+    "employer_key": "employer_029",
+    "role_family": "Software and other opportunities",
+    "mode": "Other or unconfirmed",
+    "status": "Needs browser permission",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "open_42",
+    "employer_key": "employer_030",
+    "role_family": "Software and other opportunities",
+    "mode": "Other or unconfirmed",
+    "status": "Under review",
+    "applied_on": "2026-10-08",
+    "followup_on": "2026-10-15",
+    "checked_on": "2026-10-09"
+  },
+  {
+    "record_id": "open_43",
+    "employer_key": "employer_031",
+    "role_family": "Frontend",
+    "mode": "Remote mentioned",
+    "status": "Needs browser permission",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "open_44",
+    "employer_key": "employer_032",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "On hold",
+    "applied_on": "2026-10-08",
+    "followup_on": null,
+    "checked_on": "2026-10-11"
+  },
+  {
+    "record_id": "open_45",
+    "employer_key": "employer_033",
+    "role_family": "Software and other opportunities",
+    "mode": "Other or unconfirmed",
+    "status": "Email sent",
+    "applied_on": "2026-10-08",
+    "followup_on": null,
+    "checked_on": "2026-10-15"
+  },
+  {
+    "record_id": "open_46",
+    "employer_key": "employer_034",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-08",
+    "followup_on": null,
+    "checked_on": "2026-10-15"
+  },
+  {
+    "record_id": "open_47",
+    "employer_key": "employer_035",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-08",
+    "followup_on": null,
+    "checked_on": "2026-10-15"
+  },
+  {
+    "record_id": "open_48",
+    "employer_key": "employer_036",
+    "role_family": "Frontend",
+    "mode": "Other or unconfirmed",
+    "status": "Needs details",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "open_49",
+    "employer_key": "employer_037",
+    "role_family": "Backend",
+    "mode": "Other or unconfirmed",
+    "status": "Email sent",
+    "applied_on": "2026-10-08",
+    "followup_on": null,
+    "checked_on": "2026-10-15"
+  },
+  {
+    "record_id": "open_50",
+    "employer_key": "employer_038",
+    "role_family": "Software and other opportunities",
+    "mode": "Other or unconfirmed",
+    "status": "Email sent",
+    "applied_on": "2026-10-08",
+    "followup_on": null,
+    "checked_on": "2026-10-15"
+  },
+  {
+    "record_id": "open_51",
+    "employer_key": "employer_039",
+    "role_family": "Software and other opportunities",
+    "mode": "Other or unconfirmed",
+    "status": "Email sent",
+    "applied_on": "2026-10-08",
+    "followup_on": null,
+    "checked_on": "2026-10-15"
+  },
+  {
+    "record_id": "open_52",
+    "employer_key": "employer_040",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-10",
+    "followup_on": null,
+    "checked_on": "2026-10-21"
+  },
+  {
+    "record_id": "open_53",
+    "employer_key": "employer_041",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "Form confirmed",
+    "applied_on": "2026-10-12",
+    "followup_on": "2026-10-19",
+    "checked_on": "2026-10-12"
+  },
+  {
+    "record_id": "open_54",
+    "employer_key": "employer_042",
+    "role_family": "Software and other opportunities",
+    "mode": "Jaipur mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-13",
+    "followup_on": null,
+    "checked_on": "2026-10-21"
+  },
+  {
+    "record_id": "open_55",
+    "employer_key": "employer_043",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-14",
+    "followup_on": null,
+    "checked_on": "2026-10-21"
+  },
+  {
+    "record_id": "open_56",
+    "employer_key": "employer_044",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-15",
+    "followup_on": "2026-10-22",
+    "checked_on": "2026-10-15"
+  },
+  {
+    "record_id": "open_57",
+    "employer_key": "employer_045",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "Screening required",
+    "applied_on": "2026-10-15",
+    "followup_on": "2026-10-25",
+    "checked_on": "2026-10-25"
+  },
+  {
+    "record_id": "open_58",
+    "employer_key": "employer_046",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "Screening required",
+    "applied_on": "2026-10-15",
+    "followup_on": null,
+    "checked_on": "2026-10-15"
+  },
+  {
+    "record_id": "open_59",
+    "employer_key": "employer_047",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-15",
+    "followup_on": "2026-10-22",
+    "checked_on": "2026-10-15"
+  },
+  {
+    "record_id": "open_60",
+    "employer_key": "employer_048",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-15",
+    "followup_on": "2026-10-22",
+    "checked_on": "2026-10-15"
+  },
+  {
+    "record_id": "open_61",
+    "employer_key": "employer_049",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-15",
+    "followup_on": "2026-10-22",
+    "checked_on": "2026-10-15"
+  },
+  {
+    "record_id": "open_62",
+    "employer_key": "employer_050",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "Screening required",
+    "applied_on": "2026-10-15",
+    "followup_on": "2026-10-25",
+    "checked_on": "2026-10-25"
+  },
+  {
+    "record_id": "open_63",
+    "employer_key": "employer_051",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-16",
+    "followup_on": null,
+    "checked_on": "2026-10-24"
+  },
+  {
+    "record_id": "open_64",
+    "employer_key": "employer_052",
+    "role_family": "Software and other opportunities",
+    "mode": "Other or unconfirmed",
+    "status": "Email sent",
+    "applied_on": "2026-10-21",
+    "followup_on": "2026-10-28",
+    "checked_on": "2026-10-21"
+  },
+  {
+    "record_id": "open_65",
+    "employer_key": "employer_052",
+    "role_family": "Frontend",
+    "mode": "Other or unconfirmed",
+    "status": "Email sent",
+    "applied_on": "2026-10-21",
+    "followup_on": "2026-10-28",
+    "checked_on": "2026-10-21"
+  },
+  {
+    "record_id": "open_66",
+    "employer_key": "employer_053",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "Form confirmed",
+    "applied_on": "2026-10-23",
+    "followup_on": "2026-10-30",
+    "checked_on": "2026-10-24"
+  },
+  {
+    "record_id": "open_67",
+    "employer_key": "employer_054",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "Form confirmed",
+    "applied_on": "2026-10-24",
+    "followup_on": "2026-10-31",
+    "checked_on": "2026-10-24"
+  },
+  {
+    "record_id": "open_68",
+    "employer_key": "employer_055",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "Form confirmed",
+    "applied_on": "2026-10-24",
+    "followup_on": "2026-10-31",
+    "checked_on": "2026-10-24"
+  },
+  {
+    "record_id": "lead_8",
+    "employer_key": "employer_056",
+    "role_family": "Software and other opportunities",
+    "mode": "Jaipur mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-07",
+    "followup_on": null,
+    "checked_on": "2026-10-14"
+  },
+  {
+    "record_id": "lead_9",
+    "employer_key": "employer_057",
+    "role_family": "Software and other opportunities",
+    "mode": "Jaipur mentioned",
+    "status": "On hold",
+    "applied_on": "2026-10-07",
+    "followup_on": null,
+    "checked_on": "2026-10-14"
+  },
+  {
+    "record_id": "lead_10",
+    "employer_key": "employer_058",
+    "role_family": "Software and other opportunities",
+    "mode": "Jaipur mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-07",
+    "followup_on": null,
+    "checked_on": "2026-10-14"
+  },
+  {
+    "record_id": "lead_11",
+    "employer_key": "employer_059",
+    "role_family": "Software and other opportunities",
+    "mode": "Jaipur mentioned",
+    "status": "Campus route",
+    "applied_on": "2026-10-07",
+    "followup_on": null,
+    "checked_on": "2026-10-14"
+  },
+  {
+    "record_id": "lead_12",
+    "employer_key": "employer_060",
+    "role_family": "Backend",
+    "mode": "Remote mentioned",
+    "status": "Inquiry sent",
+    "applied_on": "2026-10-08",
+    "followup_on": "2026-10-15",
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_13",
+    "employer_key": "employer_061",
+    "role_family": "Backend",
+    "mode": "Jaipur mentioned",
+    "status": "Inquiry sent",
+    "applied_on": "2026-10-08",
+    "followup_on": "2026-10-15",
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_14",
+    "employer_key": "employer_062",
+    "role_family": "Backend",
+    "mode": "Jaipur mentioned",
+    "status": "Inquiry sent",
+    "applied_on": "2026-10-08",
+    "followup_on": "2026-10-15",
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_15",
+    "employer_key": "employer_063",
+    "role_family": "Software and other opportunities",
+    "mode": "Jaipur mentioned",
+    "status": "Inquiry sent",
+    "applied_on": "2026-10-08",
+    "followup_on": "2026-10-15",
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_16",
+    "employer_key": "employer_064",
+    "role_family": "Backend",
+    "mode": "Jaipur mentioned",
+    "status": "Closed",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_17",
+    "employer_key": "employer_065",
+    "role_family": "Software and other opportunities",
+    "mode": "Jaipur mentioned",
+    "status": "Not suitable",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_18",
+    "employer_key": "employer_066",
+    "role_family": "Software and other opportunities",
+    "mode": "Jaipur mentioned",
+    "status": "Not suitable",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_19",
+    "employer_key": "employer_067",
+    "role_family": "Software and other opportunities",
+    "mode": "Jaipur mentioned",
+    "status": "Email sent",
+    "applied_on": "2026-10-08",
+    "followup_on": null,
+    "checked_on": "2026-10-15"
+  },
+  {
+    "record_id": "lead_20",
+    "employer_key": "employer_068",
+    "role_family": "Frontend",
+    "mode": "Jaipur mentioned",
+    "status": "Inquiry sent",
+    "applied_on": "2026-10-08",
+    "followup_on": null,
+    "checked_on": "2026-10-15"
+  },
+  {
+    "record_id": "lead_21",
+    "employer_key": "employer_069",
+    "role_family": "Software and other opportunities",
+    "mode": "Jaipur mentioned",
+    "status": "Delivery failed",
+    "applied_on": "2026-10-08",
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_22",
+    "employer_key": "employer_070",
+    "role_family": "Frontend",
+    "mode": "Jaipur mentioned",
+    "status": "Closed",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_23",
+    "employer_key": "employer_071",
+    "role_family": "Frontend",
+    "mode": "Jaipur mentioned",
+    "status": "Not suitable",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_24",
+    "employer_key": "employer_072",
+    "role_family": "Software and other opportunities",
+    "mode": "Jaipur mentioned",
+    "status": "Not suitable",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_25",
+    "employer_key": "employer_073",
+    "role_family": "Frontend",
+    "mode": "Other or unconfirmed",
+    "status": "On hold",
+    "applied_on": "2026-10-08",
+    "followup_on": null,
+    "checked_on": "2026-10-11"
+  },
+  {
+    "record_id": "lead_26",
+    "employer_key": "employer_074",
+    "role_family": "Frontend",
+    "mode": "Remote mentioned",
+    "status": "On hold",
+    "applied_on": "2026-10-08",
+    "followup_on": null,
+    "checked_on": "2026-10-11"
+  },
+  {
+    "record_id": "lead_27",
+    "employer_key": "employer_075",
+    "role_family": "Frontend",
+    "mode": "Other or unconfirmed",
+    "status": "Inquiry sent",
+    "applied_on": "2026-10-08",
+    "followup_on": null,
+    "checked_on": "2026-10-15"
+  },
+  {
+    "record_id": "lead_28",
+    "employer_key": "employer_076",
+    "role_family": "Frontend",
+    "mode": "Other or unconfirmed",
+    "status": "On hold",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_29",
+    "employer_key": "employer_077",
+    "role_family": "Software and other opportunities",
+    "mode": "Other or unconfirmed",
+    "status": "Not suitable",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_30",
+    "employer_key": "employer_078",
+    "role_family": "Frontend",
+    "mode": "Other or unconfirmed",
+    "status": "Not suitable",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_31",
+    "employer_key": "employer_079",
+    "role_family": "Software and other opportunities",
+    "mode": "Other or unconfirmed",
+    "status": "Closed",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_32",
+    "employer_key": "employer_080",
+    "role_family": "Software and other opportunities",
+    "mode": "Other or unconfirmed",
+    "status": "On hold",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_33",
+    "employer_key": "employer_081",
+    "role_family": "Frontend",
+    "mode": "Other or unconfirmed",
+    "status": "On hold",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_34",
+    "employer_key": "employer_082",
+    "role_family": "Software and other opportunities",
+    "mode": "Other or unconfirmed",
+    "status": "On hold",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_35",
+    "employer_key": "employer_083",
+    "role_family": "Software and other opportunities",
+    "mode": "Other or unconfirmed",
+    "status": "Closed",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_36",
+    "employer_key": "employer_084",
+    "role_family": "Software and other opportunities",
+    "mode": "Other or unconfirmed",
+    "status": "On hold",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_37",
+    "employer_key": "employer_085",
+    "role_family": "Software and other opportunities",
+    "mode": "Other or unconfirmed",
+    "status": "On hold",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_38",
+    "employer_key": "employer_086",
+    "role_family": "Software and other opportunities",
+    "mode": "Other or unconfirmed",
+    "status": "Closed",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_39",
+    "employer_key": "employer_087",
+    "role_family": "Software and other opportunities",
+    "mode": "Other or unconfirmed",
+    "status": "Closed",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_40",
+    "employer_key": "employer_088",
+    "role_family": "Software and other opportunities",
+    "mode": "Other or unconfirmed",
+    "status": "On hold",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_41",
+    "employer_key": "employer_089",
+    "role_family": "Software and other opportunities",
+    "mode": "Other or unconfirmed",
+    "status": "On hold",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_42",
+    "employer_key": "employer_090",
+    "role_family": "Frontend",
+    "mode": "Other or unconfirmed",
+    "status": "On hold",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_43",
+    "employer_key": "employer_091",
+    "role_family": "Software and other opportunities",
+    "mode": "Other or unconfirmed",
+    "status": "Result received",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_44",
+    "employer_key": "employer_092",
+    "role_family": "Backend",
+    "mode": "Other or unconfirmed",
+    "status": "Inquiry sent",
+    "applied_on": "2026-10-08",
+    "followup_on": null,
+    "checked_on": "2026-10-15"
+  },
+  {
+    "record_id": "lead_45",
+    "employer_key": "employer_093",
+    "role_family": "Frontend",
+    "mode": "Other or unconfirmed",
+    "status": "Closed",
+    "applied_on": "2026-10-08",
+    "followup_on": null,
+    "checked_on": "2026-10-15"
+  },
+  {
+    "record_id": "lead_46",
+    "employer_key": "employer_094",
+    "role_family": "Data and AI",
+    "mode": "Other or unconfirmed",
+    "status": "Needs details",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_47",
+    "employer_key": "employer_095",
+    "role_family": "Software and other opportunities",
+    "mode": "Jaipur mentioned",
+    "status": "Not suitable",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_48",
+    "employer_key": "employer_096",
+    "role_family": "Software and other opportunities",
+    "mode": "Other or unconfirmed",
+    "status": "Needs details",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-08"
+  },
+  {
+    "record_id": "lead_49",
+    "employer_key": "employer_097",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "On hold",
+    "applied_on": "2026-10-09",
+    "followup_on": null,
+    "checked_on": "2026-10-09"
+  },
+  {
+    "record_id": "lead_50",
+    "employer_key": "employer_098",
+    "role_family": "Software and other opportunities",
+    "mode": "Other or unconfirmed",
+    "status": "Screening required",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-13"
+  },
+  {
+    "record_id": "lead_51",
+    "employer_key": "employer_091",
+    "role_family": "Software and other opportunities",
+    "mode": "Other or unconfirmed",
+    "status": "Screening required",
+    "applied_on": "2026-10-08",
+    "followup_on": null,
+    "checked_on": "2026-10-10"
+  },
+  {
+    "record_id": "lead_52",
+    "employer_key": "employer_099",
+    "role_family": "Frontend",
+    "mode": "Jaipur mentioned",
+    "status": "On hold",
+    "applied_on": "2026-10-10",
+    "followup_on": null,
+    "checked_on": "2026-10-13"
+  },
+  {
+    "record_id": "lead_53",
+    "employer_key": "employer_100",
+    "role_family": "Software and other opportunities",
+    "mode": "Jaipur mentioned",
+    "status": "Inquiry sent",
+    "applied_on": "2026-10-10",
+    "followup_on": null,
+    "checked_on": "2026-10-21"
+  },
+  {
+    "record_id": "lead_54",
+    "employer_key": "employer_101",
+    "role_family": "Software and other opportunities",
+    "mode": "Other or unconfirmed",
+    "status": "Rejected",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-10"
+  },
+  {
+    "record_id": "lead_55",
+    "employer_key": "employer_102",
+    "role_family": "Software and other opportunities",
+    "mode": "Other or unconfirmed",
+    "status": "Needs details",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-10"
+  },
+  {
+    "record_id": "lead_56",
+    "employer_key": "employer_103",
+    "role_family": "Software and other opportunities",
+    "mode": "Other or unconfirmed",
+    "status": "Screening required",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-10"
+  },
+  {
+    "record_id": "lead_57",
+    "employer_key": "employer_104",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "On hold",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-10"
+  },
+  {
+    "record_id": "lead_58",
+    "employer_key": "employer_105",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "On hold",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-10"
+  },
+  {
+    "record_id": "lead_59",
+    "employer_key": "employer_106",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "Needs details",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-11"
+  },
+  {
+    "record_id": "lead_60",
+    "employer_key": "employer_107",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "Closed",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-10"
+  },
+  {
+    "record_id": "lead_61",
+    "employer_key": "employer_108",
+    "role_family": "Frontend",
+    "mode": "Remote mentioned",
+    "status": "Needs details",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-11"
+  },
+  {
+    "record_id": "lead_62",
+    "employer_key": "employer_109",
+    "role_family": "Frontend",
+    "mode": "Other or unconfirmed",
+    "status": "Needs details",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-11"
+  },
+  {
+    "record_id": "lead_63",
+    "employer_key": "employer_110",
+    "role_family": "Frontend",
+    "mode": "Remote mentioned",
+    "status": "Not suitable",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-12"
+  },
+  {
+    "record_id": "lead_64",
+    "employer_key": "employer_111",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "On hold",
+    "applied_on": "2026-10-14",
+    "followup_on": null,
+    "checked_on": "2026-10-14"
+  },
+  {
+    "record_id": "lead_65",
+    "employer_key": "employer_112",
+    "role_family": "Frontend",
+    "mode": "Remote mentioned",
+    "status": "Inquiry sent",
+    "applied_on": "2026-10-14",
+    "followup_on": null,
+    "checked_on": "2026-10-21"
+  },
+  {
+    "record_id": "lead_66",
+    "employer_key": "employer_113",
+    "role_family": "Frontend",
+    "mode": "Other or unconfirmed",
+    "status": "Form confirmed",
+    "applied_on": "2026-10-14",
+    "followup_on": null,
+    "checked_on": "2026-10-14"
+  },
+  {
+    "record_id": "lead_67",
+    "employer_key": "employer_114",
+    "role_family": "Software and other opportunities",
+    "mode": "Other or unconfirmed",
+    "status": "Needs details",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-14"
+  },
+  {
+    "record_id": "lead_68",
+    "employer_key": "employer_115",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "On hold",
+    "applied_on": null,
+    "followup_on": null,
+    "checked_on": "2026-10-15"
+  },
+  {
+    "record_id": "lead_69",
+    "employer_key": "employer_116",
+    "role_family": "Frontend",
+    "mode": "Remote mentioned",
+    "status": "Inquiry sent",
+    "applied_on": "2026-10-21",
+    "followup_on": "2026-10-28",
+    "checked_on": "2026-10-21"
+  },
+  {
+    "record_id": "lead_70",
+    "employer_key": "employer_117",
+    "role_family": "Frontend",
+    "mode": "Remote mentioned",
+    "status": "On hold",
+    "applied_on": "2026-10-23",
+    "followup_on": null,
+    "checked_on": "2026-10-24"
+  },
+  {
+    "record_id": "lead_71",
+    "employer_key": "employer_118",
+    "role_family": "Software and other opportunities",
+    "mode": "Remote mentioned",
+    "status": "Inquiry sent",
+    "applied_on": "2026-10-23",
+    "followup_on": "2026-10-30",
+    "checked_on": "2026-10-23"
+  },
+  {
+    "record_id": "lead_72",
+    "employer_key": "employer_119",
+    "role_family": "Data and AI",
+    "mode": "Remote mentioned",
+    "status": "Offer",
+    "applied_on": null,
+    "followup_on": "2026-10-25",
+    "checked_on": "2026-10-24"
+  },
+  {
+    "record_id": "lead_73",
+    "employer_key": "employer_120",
+    "role_family": "Software and other opportunities",
+    "mode": "Other or unconfirmed",
+    "status": "Screening required",
+    "applied_on": null,
+    "followup_on": "2026-10-24",
+    "checked_on": "2026-10-24"
+  }
+]

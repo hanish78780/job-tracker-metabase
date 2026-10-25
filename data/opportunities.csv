@@ -1,0 +1,128 @@
+record_id,employer_key,role_family,mode,status,applied_on,followup_on,checked_on
+open_8,employer_001,Software and other opportunities,Remote mentioned,Under review,2026-10-08,2026-10-15,2026-10-08
+open_9,employer_001,Backend,Remote mentioned,Email sent,2026-10-07,2026-10-15,2026-10-08
+open_10,employer_002,Software and other opportunities,Jaipur mentioned,Email sent,2026-10-07,,2026-10-14
+open_11,employer_003,Backend,Jaipur mentioned,Email sent,2026-10-07,2026-10-21,2026-10-14
+open_12,employer_004,Software and other opportunities,Jaipur mentioned,Email sent,2026-10-07,,2026-10-14
+open_13,employer_005,Frontend,Jaipur mentioned,Email sent,2026-10-07,,2026-10-14
+open_14,employer_003,Software and other opportunities,Jaipur mentioned,Email sent,2026-10-07,2026-10-21,2026-10-14
+open_15,employer_003,Frontend,Jaipur mentioned,Email sent,2026-10-07,2026-10-21,2026-10-14
+open_16,employer_006,Frontend,Jaipur mentioned,Email sent,2026-10-07,,2026-10-14
+open_17,employer_007,Software and other opportunities,Jaipur mentioned,Email sent,2026-10-07,,2026-10-14
+open_18,employer_008,Software and other opportunities,Remote mentioned,On hold,2026-10-07,,2026-10-14
+open_19,employer_009,Software and other opportunities,Jaipur mentioned,Email sent,2026-10-07,,2026-10-14
+open_20,employer_001,Software and other opportunities,Remote mentioned,Email sent,2026-10-07,2026-10-15,2026-10-08
+open_21,employer_003,Backend,Jaipur mentioned,Email sent,2026-10-07,2026-10-21,2026-10-14
+open_22,employer_010,Software and other opportunities,Jaipur mentioned,On hold,2026-10-07,,2026-10-14
+open_23,employer_011,Backend,Jaipur mentioned,On hold,2026-10-07,,2026-10-14
+open_24,employer_012,Software and other opportunities,Jaipur mentioned,Email sent,2026-10-07,,2026-10-14
+open_25,employer_013,Software and other opportunities,Jaipur mentioned,Email sent,2026-10-07,,2026-10-14
+open_26,employer_014,Backend,Jaipur mentioned,Email sent,2026-10-07,,2026-10-14
+open_27,employer_015,Software and other opportunities,Remote mentioned,Email sent,2026-10-07,,2026-10-14
+open_28,employer_016,Software and other opportunities,Remote mentioned,Email sent,2026-10-07,,2026-10-14
+open_29,employer_017,Software and other opportunities,Remote mentioned,Email sent,2026-10-07,,2026-10-14
+open_30,employer_018,Software and other opportunities,Jaipur mentioned,Email sent,2026-10-08,2026-10-15,2026-10-08
+open_31,employer_019,Frontend,Jaipur mentioned,Email sent,2026-10-08,2026-10-15,2026-10-08
+open_32,employer_020,Data and AI,Remote mentioned,Form confirmed,,,2026-10-08
+open_33,employer_021,Software and other opportunities,Remote mentioned,Form confirmed,,,2026-10-08
+open_34,employer_022,Software and other opportunities,Remote mentioned,Email sent,2026-10-08,,2026-10-15
+open_35,employer_023,Data and AI,Jaipur mentioned,Email sent,2026-10-08,,2026-10-15
+open_36,employer_024,Frontend,Other or unconfirmed,Email sent,2026-10-08,,2026-10-15
+open_37,employer_025,Software and other opportunities,Remote mentioned,Closed,2026-10-08,,2026-10-15
+open_38,employer_026,Software and other opportunities,Remote mentioned,Under review,2026-10-08,2026-11-01,2026-10-15
+open_39,employer_027,Frontend,Remote mentioned,Email sent,2026-10-08,,2026-10-15
+open_40,employer_028,Software and other opportunities,Other or unconfirmed,Email sent,2026-10-08,,2026-10-15
+open_41,employer_029,Software and other opportunities,Other or unconfirmed,Needs browser permission,,,2026-10-08
+open_42,employer_030,Software and other opportunities,Other or unconfirmed,Under review,2026-10-08,2026-10-15,2026-10-09
+open_43,employer_031,Frontend,Remote mentioned,Needs browser permission,,,2026-10-08
+open_44,employer_032,Software and other opportunities,Remote mentioned,On hold,2026-10-08,,2026-10-11
+open_45,employer_033,Software and other opportunities,Other or unconfirmed,Email sent,2026-10-08,,2026-10-15
+open_46,employer_034,Software and other opportunities,Remote mentioned,Email sent,2026-10-08,,2026-10-15
+open_47,employer_035,Software and other opportunities,Remote mentioned,Email sent,2026-10-08,,2026-10-15
+open_48,employer_036,Frontend,Other or unconfirmed,Needs details,,,2026-10-08
+open_49,employer_037,Backend,Other or unconfirmed,Email sent,2026-10-08,,2026-10-15
+open_50,employer_038,Software and other opportunities,Other or unconfirmed,Email sent,2026-10-08,,2026-10-15
+open_51,employer_039,Software and other opportunities,Other or unconfirmed,Email sent,2026-10-08,,2026-10-15
+open_52,employer_040,Software and other opportunities,Remote mentioned,Email sent,2026-10-10,,2026-10-21
+open_53,employer_041,Software and other opportunities,Remote mentioned,Form confirmed,2026-10-12,2026-10-19,2026-10-12
+open_54,employer_042,Software and other opportunities,Jaipur mentioned,Email sent,2026-10-13,,2026-10-21
+open_55,employer_043,Software and other opportunities,Remote mentioned,Email sent,2026-10-14,,2026-10-21
+open_56,employer_044,Software and other opportunities,Remote mentioned,Email sent,2026-10-15,2026-10-22,2026-10-15
+open_57,employer_045,Software and other opportunities,Remote mentioned,Screening required,2026-10-15,2026-10-25,2026-10-25
+open_58,employer_046,Software and other opportunities,Remote mentioned,Screening required,2026-10-15,,2026-10-15
+open_59,employer_047,Software and other opportunities,Remote mentioned,Email sent,2026-10-15,2026-10-22,2026-10-15
+open_60,employer_048,Software and other opportunities,Remote mentioned,Email sent,2026-10-15,2026-10-22,2026-10-15
+open_61,employer_049,Software and other opportunities,Remote mentioned,Email sent,2026-10-15,2026-10-22,2026-10-15
+open_62,employer_050,Software and other opportunities,Remote mentioned,Screening required,2026-10-15,2026-10-25,2026-10-25
+open_63,employer_051,Software and other opportunities,Remote mentioned,Email sent,2026-10-16,,2026-10-24
+open_64,employer_052,Software and other opportunities,Other or unconfirmed,Email sent,2026-10-21,2026-10-28,2026-10-21
+open_65,employer_052,Frontend,Other or unconfirmed,Email sent,2026-10-21,2026-10-28,2026-10-21
+open_66,employer_053,Software and other opportunities,Remote mentioned,Form confirmed,2026-10-23,2026-10-30,2026-10-24
+open_67,employer_054,Software and other opportunities,Remote mentioned,Form confirmed,2026-10-24,2026-10-31,2026-10-24
+open_68,employer_055,Software and other opportunities,Remote mentioned,Form confirmed,2026-10-24,2026-10-31,2026-10-24
+lead_8,employer_056,Software and other opportunities,Jaipur mentioned,Email sent,2026-10-07,,2026-10-14
+lead_9,employer_057,Software and other opportunities,Jaipur mentioned,On hold,2026-10-07,,2026-10-14
+lead_10,employer_058,Software and other opportunities,Jaipur mentioned,Email sent,2026-10-07,,2026-10-14
+lead_11,employer_059,Software and other opportunities,Jaipur mentioned,Campus route,2026-10-07,,2026-10-14
+lead_12,employer_060,Backend,Remote mentioned,Inquiry sent,2026-10-08,2026-10-15,2026-10-08
+lead_13,employer_061,Backend,Jaipur mentioned,Inquiry sent,2026-10-08,2026-10-15,2026-10-08
+lead_14,employer_062,Backend,Jaipur mentioned,Inquiry sent,2026-10-08,2026-10-15,2026-10-08
+lead_15,employer_063,Software and other opportunities,Jaipur mentioned,Inquiry sent,2026-10-08,2026-10-15,2026-10-08
+lead_16,employer_064,Backend,Jaipur mentioned,Closed,,,2026-10-08
+lead_17,employer_065,Software and other opportunities,Jaipur mentioned,Not suitable,,,2026-10-08
+lead_18,employer_066,Software and other opportunities,Jaipur mentioned,Not suitable,,,2026-10-08
+lead_19,employer_067,Software and other opportunities,Jaipur mentioned,Email sent,2026-10-08,,2026-10-15
+lead_20,employer_068,Frontend,Jaipur mentioned,Inquiry sent,2026-10-08,,2026-10-15
+lead_21,employer_069,Software and other opportunities,Jaipur mentioned,Delivery failed,2026-10-08,,2026-10-08
+lead_22,employer_070,Frontend,Jaipur mentioned,Closed,,,2026-10-08
+lead_23,employer_071,Frontend,Jaipur mentioned,Not suitable,,,2026-10-08
+lead_24,employer_072,Software and other opportunities,Jaipur mentioned,Not suitable,,,2026-10-08
+lead_25,employer_073,Frontend,Other or unconfirmed,On hold,2026-10-08,,2026-10-11
+lead_26,employer_074,Frontend,Remote mentioned,On hold,2026-10-08,,2026-10-11
+lead_27,employer_075,Frontend,Other or unconfirmed,Inquiry sent,2026-10-08,,2026-10-15
+lead_28,employer_076,Frontend,Other or unconfirmed,On hold,,,2026-10-08
+lead_29,employer_077,Software and other opportunities,Other or unconfirmed,Not suitable,,,2026-10-08
+lead_30,employer_078,Frontend,Other or unconfirmed,Not suitable,,,2026-10-08
+lead_31,employer_079,Software and other opportunities,Other or unconfirmed,Closed,,,2026-10-08
+lead_32,employer_080,Software and other opportunities,Other or unconfirmed,On hold,,,2026-10-08
+lead_33,employer_081,Frontend,Other or unconfirmed,On hold,,,2026-10-08
+lead_34,employer_082,Software and other opportunities,Other or unconfirmed,On hold,,,2026-10-08
+lead_35,employer_083,Software and other opportunities,Other or unconfirmed,Closed,,,2026-10-08
+lead_36,employer_084,Software and other opportunities,Other or unconfirmed,On hold,,,2026-10-08
+lead_37,employer_085,Software and other opportunities,Other or unconfirmed,On hold,,,2026-10-08
+lead_38,employer_086,Software and other opportunities,Other or unconfirmed,Closed,,,2026-10-08
+lead_39,employer_087,Software and other opportunities,Other or unconfirmed,Closed,,,2026-10-08
+lead_40,employer_088,Software and other opportunities,Other or unconfirmed,On hold,,,2026-10-08
+lead_41,employer_089,Software and other opportunities,Other or unconfirmed,On hold,,,2026-10-08
+lead_42,employer_090,Frontend,Other or unconfirmed,On hold,,,2026-10-08
+lead_43,employer_091,Software and other opportunities,Other or unconfirmed,Result received,,,2026-10-08
+lead_44,employer_092,Backend,Other or unconfirmed,Inquiry sent,2026-10-08,,2026-10-15
+lead_45,employer_093,Frontend,Other or unconfirmed,Closed,2026-10-08,,2026-10-15
+lead_46,employer_094,Data and AI,Other or unconfirmed,Needs details,,,2026-10-08
+lead_47,employer_095,Software and other opportunities,Jaipur mentioned,Not suitable,,,2026-10-08
+lead_48,employer_096,Software and other opportunities,Other or unconfirmed,Needs details,,,2026-10-08
+lead_49,employer_097,Software and other opportunities,Remote mentioned,On hold,2026-10-09,,2026-10-09
+lead_50,employer_098,Software and other opportunities,Other or unconfirmed,Screening required,,,2026-10-13
+lead_51,employer_091,Software and other opportunities,Other or unconfirmed,Screening required,2026-10-08,,2026-10-10
+lead_52,employer_099,Frontend,Jaipur mentioned,On hold,2026-10-10,,2026-10-13
+lead_53,employer_100,Software and other opportunities,Jaipur mentioned,Inquiry sent,2026-10-10,,2026-10-21
+lead_54,employer_101,Software and other opportunities,Other or unconfirmed,Rejected,,,2026-10-10
+lead_55,employer_102,Software and other opportunities,Other or unconfirmed,Needs details,,,2026-10-10
+lead_56,employer_103,Software and other opportunities,Other or unconfirmed,Screening required,,,2026-10-10
+lead_57,employer_104,Software and other opportunities,Remote mentioned,On hold,,,2026-10-10
+lead_58,employer_105,Software and other opportunities,Remote mentioned,On hold,,,2026-10-10
+lead_59,employer_106,Software and other opportunities,Remote mentioned,Needs details,,,2026-10-11
+lead_60,employer_107,Software and other opportunities,Remote mentioned,Closed,,,2026-10-10
+lead_61,employer_108,Frontend,Remote mentioned,Needs details,,,2026-10-11
+lead_62,employer_109,Frontend,Other or unconfirmed,Needs details,,,2026-10-11
+lead_63,employer_110,Frontend,Remote mentioned,Not suitable,,,2026-10-12
+lead_64,employer_111,Software and other opportunities,Remote mentioned,On hold,2026-10-14,,2026-10-14
+lead_65,employer_112,Frontend,Remote mentioned,Inquiry sent,2026-10-14,,2026-10-21
+lead_66,employer_113,Frontend,Other or unconfirmed,Form confirmed,2026-10-14,,2026-10-14
+lead_67,employer_114,Software and other opportunities,Other or unconfirmed,Needs details,,,2026-10-14
+lead_68,employer_115,Software and other opportunities,Remote mentioned,On hold,,,2026-10-15
+lead_69,employer_116,Frontend,Remote mentioned,Inquiry sent,2026-10-21,2026-10-28,2026-10-21
+lead_70,employer_117,Frontend,Remote mentioned,On hold,2026-10-23,,2026-10-24
+lead_71,employer_118,Software and other opportunities,Remote mentioned,Inquiry sent,2026-10-23,2026-10-30,2026-10-23
+lead_72,employer_119,Data and AI,Remote mentioned,Offer,,2026-10-25,2026-10-24
+lead_73,employer_120,Software and other opportunities,Other or unconfirmed,Screening required,,2026-10-24,2026-10-24
