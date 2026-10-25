@@ -4,9 +4,11 @@ This assessment project turns Hanish's real job-search workbook into a privacy-r
 
 ## Current verification status
 
-Five local validation tests pass. On 25 October 2026, Metabase connected to the private project PostgreSQL database. Its supported CSV upload imported the real 127-record snapshot as model 40, Opportunities. The saved live SQL integrity query returned 127 records, 120 employer pseudonyms, 45 missing application dates and zero missing checked dates. A dashboard named Job search opportunity review and a status chart have been saved. Public sharing and the complete assessment submission are still pending.
+Five local validation tests pass. On 25 October 2026, Metabase connected to the private project PostgreSQL database. Its supported CSV upload imported the real 127-record snapshot as model 40, Opportunities. The saved live SQL integrity query returned 127 records, 120 employer pseudonyms, 45 missing application dates and zero missing checked dates. A dashboard named Job search opportunity review contains a status chart, integrity table and recorded review queue. The public view was verified, and a request without session credentials returned HTTP 200 with three cards. After the approved server upgrade on 26 October, the public dashboard metadata still returned HTTP 200 with all three cards.
 
-The Node importer and summary endpoint below are an alternative prepared implementation: they have not been deployed. The actual live route is local whitelist export → CSV upload through Metabase → private PostgreSQL → saved questions/dashboard. See `metabase-live-queries.sql`. The server rejected an additional Linkdrop workload due to reserved memory; no server upgrade or deletion was performed.
+[Open the public opportunity-review dashboard](https://metabase-xjhvufkfdsnxxurrzjmogtfr.2.31.67.138.nip.swatantra.cloud/public/dashboard/b89bc5ab-5002-4679-98b4-88b19d9f3a34).
+
+The Node importer and summary endpoint below are an alternative prepared implementation: they have not been deployed. The actual live route is local whitelist export → CSV upload through Metabase → private PostgreSQL → saved questions/dashboard. See `metabase-live-queries.sql`. The smallest server initially rejected the additional Linkdrop workload due to reserved memory. On 26 October, the candidate explicitly approved a manual upgrade to cax21 (8 GB); it completed with automatic scaling paused. Linkdrop is building. Final assessment submission and the candidate-voiced video remain pending.
 
 ## Data provenance and limits
 
