@@ -4,7 +4,9 @@ This assessment project turns Hanish's real job-search workbook into a privacy-r
 
 ## Current verification status
 
-Code and the real-data snapshot are prepared locally. Five validation tests pass. Deployment, PostgreSQL import and Metabase dashboard checks are still pending; this README must be updated with actual live results before final submission. No screenshots of a finished dashboard or live database result are claimed here.
+Five local validation tests pass. On 25 October 2026, Metabase connected to the private project PostgreSQL database. Its supported CSV upload imported the real 127-record snapshot as model 40, Opportunities. The saved live SQL integrity query returned 127 records, 120 employer pseudonyms, 45 missing application dates and zero missing checked dates. A dashboard named Job search opportunity review and a status chart have been saved. Public sharing and the complete assessment submission are still pending.
+
+The Node importer and summary endpoint below are an alternative prepared implementation: they have not been deployed. The actual live route is local whitelist export → CSV upload through Metabase → private PostgreSQL → saved questions/dashboard. See `metabase-live-queries.sql`. The server rejected an additional Linkdrop workload due to reserved memory; no server upgrade or deletion was performed.
 
 ## Data provenance and limits
 
